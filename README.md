@@ -1,1 +1,1 @@
-# basic-ransomware
+# super-basic-ransomware
