@@ -11,8 +11,6 @@ for file in os.listdir():
     if os.path.isfile(file):
         files.append(file)
 
-key = Fernet.generate_key()
-
 with open("key", "rb") as fp:
     my_key = fp.read()
 
